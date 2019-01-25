@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 
 # -----------------------------------------
-# Updated Date: 2014/03/24
 # Input: the control sam file and treatment sam file (alignment files after executing bowtie2-align)
 # Output: dynamically generate (2^n + 1) sub-files sequentially
 # Environemt: Linux
